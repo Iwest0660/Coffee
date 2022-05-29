@@ -1,0 +1,25 @@
+@media only screen and (max-width:768px) {
+
+    // footer
+
+    .footer {
+
+        &__container {
+            padding: 0;
+            flex-direction: column;
+        }
+
+        &__left {
+            margin-bottom: 33px;
+        }
+
+        &__middle {
+            margin-bottom: 65px;
+        }
+
+        &__list {
+            width: 283px;
+        }
+    }
+
+}
